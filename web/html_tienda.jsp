@@ -57,7 +57,7 @@
                 <div class="producto m-4 col-md-auto">
                     <a><img src="img/burguers/clasica.jpg" width="390" height="520" alt="Burger" class="img-producto"
                             data-bs-toggle="modal" data-bs-target="#exampleModal"></a>
-                    <h3>Hamburguesa Clásica</h3>
+                    <h3>Hamburguesa rapida</h3>
                     <h4>S/.15.00</h4>
                 </div>
 
