@@ -13,7 +13,7 @@ public class Conexion {
         // Datos de conexión
         String url = "jdbc:mysql://localhost:3306/restaurantebd"; // Cambia el nombre de la base de datos si es necesario
         String user = "root";  // Tu usuario de la base de datos
-        String password = "michicau123";  // Tu contraseña de la base de datos
+        String password = "admin";  // Tu contraseña de la base de datos
 
         // Crear y retornar la conexión
         return DriverManager.getConnection(url, user, password);
