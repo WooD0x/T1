@@ -1,0 +1,106 @@
+.img-fluid {
+    height: 400px;
+}
+
+.col-9 button {
+    background-color: transparent;
+    border: none;
+    padding: 30px;
+    border-radius: 0px;
+    font-size: 18px;
+}
+
+.logo {
+    height: 120px;
+}
+
+.secciones {
+    border: 3px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.secciones-1 {
+    border: none;
+    padding: 30px;
+    margin: 20px;
+}
+
+.container a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+i {
+    font-size: 20px;
+    color: #ffffff;
+    float: right;
+}
+
+.imagen1 {
+    position: relative;
+}
+
+.imagen1 a {
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    z-index: 1;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.imagen1 i {
+    position: absolute;
+    top: 40px;
+    left: 60px;
+    font-size: 45px;
+}
+
+.imagen1 img {
+    transition: transform 0.5s;
+}
+
+.imagen1 img:hover {
+    transform: scale(1.1);
+}
+
+.dudas h3 {
+    font-weight: bold;
+}
+
+.dudas p {
+    font-size: 20px;
+    padding-top: 10px;
+    margin-bottom: 60px;
+}
+
+.dudas button {
+    border-radius: 0px;
+    padding: 15px;
+}
+
+.contacto {
+    background-color: #F0F0F0;
+}
+
+.contacto p {
+    float: right;
+}
+
+.menu {
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+
+.bg-white2 {
+    background-color: red;
+}
+
+.fas {
+    color: black;
+}
